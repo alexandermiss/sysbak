@@ -1,0 +1,20 @@
+{
+  "databases": [
+    {
+      "name": "awesome_connection_name_1",
+      "host": "host_1",
+      "user": "user1",
+      "db": "my_database_1",
+      "password": "my_5upeR_p455",
+      "port": "5432"
+    },
+    {
+      "name": "awesome_connection_name_2",
+      "host": "host_2",
+      "user": "user2",
+      "db": "my_database_2",
+      "password": "my_5upeR_p455",
+      "port": "5432"
+    },
+  ]
+}
